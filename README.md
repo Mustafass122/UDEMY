@@ -4,7 +4,7 @@
 
 Bu bölümde JAVA SE konularına değinilmiştir. 
 Başlangıç seviyesinde konu anlatımı şeklinde ve aynı zamanda ilgili konulardan örnekler yapılmıştır.
-[UDEMY](www.udemy.com) sitesinde yer alan çeşitli eğitmenlerin projelerine yer verilmiştir.
+[UDEMY](https://www.udemy.com/) sitesinde yer alan çeşitli eğitmenlerin projelerine yer verilmiştir.
 TEkrar etmek ve kalıcılığı sağlamak adına projeler eklenmiştir.
 
  
